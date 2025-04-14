@@ -1,0 +1,35 @@
+.heading{
+    color: blue;
+    background-color: lightblue;
+    /* text-align => center,right,justify */
+    text-align: right; 
+}
+
+p{
+    text-align: justify;
+    /* letter-spacing: 20px; */
+    /* word-spacing: 30px; */
+    /* line-height: 90px; */
+    /* white-space: nowrap; */
+}
+
+.text-decoration{
+    /* text-decoration => none, underline, overline, line-through */
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.text-transform{
+    /* text-transform => uppercase, lowercase, capitalize */
+    text-transform: lowercase;
+}
+
+.font-family{
+    font-family: "Sylfaen";
+    font-style: italic;
+    font-weight: 200;
+    font-size: 80px;
+}
