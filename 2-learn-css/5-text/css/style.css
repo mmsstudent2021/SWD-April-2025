@@ -28,8 +28,25 @@ a{
 }
 
 .font-family{
-    font-family: "Sylfaen";
+    font-family: "Bungee Spice", sans-serif;
     font-style: italic;
     font-weight: 200;
     font-size: 80px;
+}
+
+.sans-serif{
+    font-family: sans-serif;
+}
+
+.serif{
+    font-family: serif;
+}
+
+.monospace{
+    font-family: monospace;
+}
+
+i{
+    color: orange;
+    font-size: 30px;
 }

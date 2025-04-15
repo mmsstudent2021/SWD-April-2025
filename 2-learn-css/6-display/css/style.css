@@ -1,0 +1,19 @@
+/* block => full width, width height pay lox ya */
+.block{
+    background-color: lightblue;
+    width: 300px;
+}
+
+/* inline => content width, width height pay lox ma ya  */
+.inline{
+    background-color: lightcoral;
+    display: inline;
+    width: 500px;
+}
+
+/* inline-block => content width , width height pay lox ya */
+.inline-block{
+    background-color: lightgreen;
+    display: inline-block;
+    width: 500px;
+}
